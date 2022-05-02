@@ -1,7 +1,7 @@
 # Ventajas-de-Git-y-GitHub ✅
 *Mi primer repositorio para adentrarme a este maravilloso mundo del frontend y control de versiones, usando herramientas tales como Git y GitHub.*
 
-###Lo que encontrarás en este Blog:
+##Lo que encontrarás en este Blog:
 * Definición de Git.
 * Definición de GitHub.
 * Ventajas y desventajas de Git.
